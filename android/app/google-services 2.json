@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "36050982103",
+    "firebase_url": "https://chatapp-30bbc.firebaseio.com",
+    "project_id": "chatapp-30bbc",
+    "storage_bucket": "chatapp-30bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36050982103:android:c1c7265788929309828c92",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36050982103-3jb5q5n9vusfim1m4r98igug0uf6vsrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLcif1JsjCKzBpHTM9b5yJve1a4vEFkdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36050982103-3jb5q5n9vusfim1m4r98igug0uf6vsrb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36050982103-p7tnhl8iirugb4g88sa67okga5fn04av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
